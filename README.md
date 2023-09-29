@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/37teg6b3o3q72xjh?svg=true)](https://ci.appveyor.com/project/Greymassive/api-ci)
